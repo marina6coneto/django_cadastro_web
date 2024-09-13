@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+db.sqlite3
+pyvenv.cfg
+base/__pycache__/
+migrations/__pycache__/
+projeto_womakers/__pycache__/
