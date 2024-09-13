@@ -37,3 +37,16 @@
 〰Comando para criação de um app
 
          🟣 python manage.py startapp base
+
+## Screenshots
+1. **Tela Inicial**  
+   ![tela inicial](screenshots/inicio.png)
+
+2. **Tela de Cadastro**  
+   ![Tela de Cadastro](screenshots/cadastro.png)
+
+3. **Tela de Cadastro Efetuado**  
+   ![Tela de Cadastro Efetuado](screenshots/cadastro_efetuado.png)
+
+4. **Tela admin**  
+   ![Tela admin](screenshots/admin.png)
